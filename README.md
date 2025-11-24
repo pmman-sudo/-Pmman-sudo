@@ -69,6 +69,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 <img src="https://img.shields.io/badge/-Google_Cloud_Certification-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
 </div>
 
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
