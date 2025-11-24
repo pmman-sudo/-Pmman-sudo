@@ -17,7 +17,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 | Threat Intelligence and Response                | SOC Automation Lab|
 | Wireshark and Packet Analysis                   | SOC Automation Lab|
 | Malware Analysis                                | SOC Automation Lab|
-| Phishing Analysis                               | SOC Automation Lab|
+| Phishing Analysis                               | <a href="https://google.comhttps://github.com/pmman-sudo/Phishing-email-analysis-lab/tree/main">Phishing Lab</a>|
 
 
 
@@ -71,6 +71,6 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://google.comhttps://github.com/pmman-sudo/Phishing-email-analysis-lab/tree/main">Phishing Lab</a>
+- <a href="https://google.com">Detection Lab</a>
 - 
