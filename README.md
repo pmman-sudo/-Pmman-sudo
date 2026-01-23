@@ -11,14 +11,13 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with SIEM</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with SOAR                   | SOC Automation Lab|
 | Threat Intelligence and Response                | SOC Automation Lab|
 | Wireshark and Packet Analysis                   | SOC Automation Lab|
 | Malware Analysis                                | SOC Automation Lab|
 | Phishing Analysis                               | <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>|
-
 
 
 ## Tools
@@ -68,9 +67,11 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 <img src="https://img.shields.io/badge/-IBM_Cyber_Breach-1F70C1?style=for-the-badge&logo=IBM&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cloud_Certification-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white" />
 </div>
+<img src="https://img.shields.io/badge/-TryHackMe_SOC_Level_1-C11111?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+
 
 
 ## Projects
+- <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with SIEM</a>
 - <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>
-- <a href="https://google.com">Detection Lab</a>
 - 
