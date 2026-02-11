@@ -12,7 +12,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with Splunk</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-/blob/main/README.md)">IDS/IPS with snort</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-">IDS/IPS with snort</a>|
 | Threat Intelligence and Response                | <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>|
 | Wireshark and Packet Analysis                   | <a href="https://github.com/pmman-sudo/Wireshark-traffic-analysis/blob/main/README.md">traffic analysis with wireshark</a>|
 | Malware Analysis                                | <a href="https://google.com">YARA</a>|
@@ -73,4 +73,4 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 - <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>
 - <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>
 - <a href="https://github.com/pmman-sudo/Wireshark-traffic-analysis/blob/main/README.md">traffic analysis with wireshark</a>
-- <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-/blob/main/README.md)">IDS/IPS with snort</a>
+- <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-">IDS/IPS with snort</a>
