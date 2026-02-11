@@ -1,4 +1,4 @@
-# Hello, I'm IYEN PAUL
+  # Hello, I'm IYEN PAUL
 <a href="https://www.linkedin.com/in/pauliyen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hardworking and highly motivated cybersecurity professional eager to apply combined knowledge and skills to strengthen organizational security posture. Operates effectively both independently and in collaborative team environments, leveraging a strong work ethic, analytical mindset, proven problem-solving abilities, and adaptability to align with evolving processes and support targeted objectives. Resourceful and results-driven, with a passion for growth, efficiency, and delivering value through enhanced security services
@@ -11,10 +11,10 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with SIEM</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with Splunk</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with SOAR                   | SOC Automation Lab|
-| Threat Intelligence and Response                | SOC Automation Lab|
+| Threat Intelligence and Response                | <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>|
 | Wireshark and Packet Analysis                   | SOC Automation Lab|
 | Malware Analysis                                | SOC Automation Lab|
 | Phishing Analysis                               | <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>|
@@ -70,6 +70,6 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 
 ## Projects
-- <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with SIEM</a>
+- <a href="https://github.com/pmman-sudo/SEIM-lab1/blob/main/README.md">Log analysis with Splunk</a>
 - <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>
-- 
+- <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>
