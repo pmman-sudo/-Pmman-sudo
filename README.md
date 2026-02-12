@@ -7,7 +7,6 @@ Hardworking and highly motivated cybersecurity professional eager to apply combi
 My journey in tech has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
