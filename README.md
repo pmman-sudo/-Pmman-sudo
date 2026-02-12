@@ -15,7 +15,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-">IDS/IPS with snort</a>|
 | Threat Intelligence and Response                | <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>|
 | Wireshark and Packet Analysis                   | <a href="https://github.com/pmman-sudo/Wireshark-traffic-analysis/blob/main/README.md">traffic analysis with wireshark</a>|
-| Malware Analysis                                | <a href="https://google.com">YARA</a>|
+| Malware Analysis and Threat hunting             | <a href="https://github.com/pmman-sudo/YARA/blob/main/README.md">YARA</a>|
 | Phishing Analysis                               | <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>|
 
 
@@ -74,3 +74,4 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 - <a href="https://github.com/pmman-sudo/MITRE-ATT-CK/blob/main/README.md">Threat intelligence(MITRE ATT&CK)</a>
 - <a href="https://github.com/pmman-sudo/Wireshark-traffic-analysis/blob/main/README.md">traffic analysis with wireshark</a>
 - <a href="https://github.com/pmman-sudo/Network-traffic-monitoring-Snort-">IDS/IPS with snort</a>
+- <a href="https://github.com/pmman-sudo/YARA/blob/main/README.md">YARA</a>
