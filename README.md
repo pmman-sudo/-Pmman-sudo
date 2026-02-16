@@ -16,6 +16,8 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 | Wireshark and Packet Analysis                   | <a href="https://github.com/pmman-sudo/Wireshark-traffic-analysis/blob/main/README.md">traffic analysis with wireshark</a>|
 | Malware Analysis and Threat hunting             | <a href="https://github.com/pmman-sudo/YARA/blob/main/README.md">YARA</a>|
 | Phishing Analysis                               | <a href="https://github.com/pmman-sudo/Phishing-email-analysis-lab">Phishing Lab</a>|
+| Cloud Security                                  | <a href="https://github.com/pmman-sudo/YARA/blob/main/README.md">AWS IAM</a>| 
+
 
 
 ## Tools
